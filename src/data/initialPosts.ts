@@ -52,6 +52,16 @@ const initialPosts: Post[] = [
     category: 'Khác',
     date: '30/10/2025',
   },
+  {
+    id: 6,
+    title:'Nâng mức phạt hành vi vượt đèn đỏ từ 3-6 lần: Cục Cảnh sát giao thông nói gì?',
+    author: "Chính sách và đời sống ",
+    thumbnail:"https://xdcs.cdnchinhphu.vn/thumb_w/640/446259493575335936/2025/1/1/vuot-den-do-1728484216634-4440-303-1735729735543210735329.jpg",
+    content:"Mức phạt đối với lỗi không chấp hành hiệu lệnh của đèn tín hiệu giao thông (vượt đèn đỏ) theo quy định của Nghị định 168/2024/NĐ-CP sẽ tăng lên gấp từ 3-6 lần so với quy định trước đây.",
+    category: "Đời sống",
+    date:'05/01/2025',
+
+  },
 ];
 
 export default initialPosts;
